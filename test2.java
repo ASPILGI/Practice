@@ -1,3 +1,4 @@
+// for 문을 이용한 구구단 만들기 //
 public class test2 {
     public static void main(String[] args) {
         for (int i = 1; i <= 9; i++) {
