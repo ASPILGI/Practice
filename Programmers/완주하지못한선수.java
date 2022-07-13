@@ -13,7 +13,7 @@ class Solution {
             if(!participant[i].equals(completion[i]))
                 break;
 
-        // 3. 여기까지 왔다면, 마지막 주자가 완주하지 못한 선수이다.
+        // 3. 멈추지 않고 , 마지막 주자가 완주하지 못한 선수이다.
         return participant[i];
     }   
 }
