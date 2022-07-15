@@ -16,7 +16,7 @@ class Solution {
             if(answers[i] == c[i%10]) score[2]++;
         }
 
-        // 가장 많이 맞춘 문제 개수 찾기
+        // 가장 많이 맞춘 문제 개수 찾기 - Math.max 
         int max = Math.max(score[0], Math.max(score[1], score[2]));
 
         // 최고 점수인 수포자 구하기
