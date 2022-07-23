@@ -4,7 +4,7 @@ class Solution {
         int long_max = 1;
         int short_max = 1;
 
-      // 입력 받은 sizes 배열의 길이만큼 반복하며 Math.max와 Math.min 함수를 이용하여 각 명함의 길이중 긴 길이와 짧은 길이를 구한다
+      // 입력 받은 sizes 배열의 길이만큼 반복하며 Math.max와 Math.min 함수를 이용하여 각 명함의 길이중 긴 길이와 짧은 길이를 구한다.
         for(int i=0; i<sizes.length; i++){
             int longer = Math.max(sizes[i][0], sizes[i][1]);
             int shorter = Math.min(sizes[i][0], sizes[i][1]);
