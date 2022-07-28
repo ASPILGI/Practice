@@ -2,8 +2,8 @@
 public class Main{
 	public static void main(String[] args){
 		double a = 12.34565;
-		System.out.println(String.format("%.2f", a)); //결과 : 12.35
-		System.out.println(String.format("%.3f", a)); //결과 : 12.346
+		System.out.println(String.format("%.2f", a)); // 결과 : 12.35
+		System.out.println(String.format("%.3f", a)); // 결과 : 12.346
 	}
 }
 
