@@ -2,7 +2,7 @@
 public class Main{
 	public static void main(String[] args){
 		int sum = 0;
-		float average = 0f;
+		double average = 0;
 
 		int[] score = {100, 32, 53, 67, 55};
 
@@ -10,7 +10,7 @@ public class Main{
 			sum += score[i];
 		}
 
-		average = sum / (float)score.length;
+		average = (double) sum / score.length;
 
 		System.out.println("합계 : " + sum);
 		System.out.println("평균값 :" + average); 
