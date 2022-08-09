@@ -1,3 +1,4 @@
+// 완전탐색 - 모의고사
 import java.util.*;
 class Solution {
     public int[] solution(int[] answers) {
