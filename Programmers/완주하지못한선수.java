@@ -1,4 +1,5 @@
-// sort/loop 방식의 해결법 // 
+// 해시 - 완주하지 못한 선수
+// sort/loop 방식의 해결법 
 import java.util.Arrays;
 class Solution {
     public String solution(String[] participant, String[] completion) {
