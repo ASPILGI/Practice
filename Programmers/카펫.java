@@ -1,5 +1,6 @@
 // 완전탐색 - 카펫
 // if contiune 문 다시 보기
+
 class Solution {
     public int[] solution(int brown, int yellow) {
         int[] answer = new int[2];
