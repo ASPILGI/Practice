@@ -1,3 +1,4 @@
+// 해시 - 전화번호 목록
 // 1. Sort/Loop을 사용한 solution
 // 2중 Loop를 사용하면 시간 초과이기 때문에 sorting을 통하여 1중으로만 Loop하게 한다.
 
