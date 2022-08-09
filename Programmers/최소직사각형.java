@@ -1,3 +1,4 @@
+// 완전탐색 - 최소직사각형
 class Solution {
     public int solution(int[][] sizes) {
       // 각 길이의 최대값을 저장할 변수를 선언하고, 최대값 비교를 위해 길이의 최소값인 1로 초기화
