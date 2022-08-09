@@ -1,3 +1,4 @@
+// 해시 - 위장
 import java.util.HashMap;
 import java.util.Iterator;
 
