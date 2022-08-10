@@ -1,4 +1,5 @@
 // 스택/큐 - 같은 숫자는 싫어
+
 import java.util.*;
 
 public class Solution {
